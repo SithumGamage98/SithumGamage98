@@ -1,4 +1,4 @@
-![MasterHead](https://previews.customer.envatousercontent.com/h264-video-previews/b1c08d28-f9ed-4db3-b488-e7cdffa819a6/14563792.mp4)
+![MasterHead](https://komarev.com/ghpvc/?username=sithumgamage98&label=Profile%20views&color=0e75b6&style=flat)
 <h1 align="center">Hi 👋, I'm Sithum Gamage</h1>
 <h3 align="center">Software engineering undergraduate at SLIIT</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
