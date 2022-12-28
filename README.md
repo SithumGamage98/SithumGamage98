@@ -5,7 +5,7 @@
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=fff&width=480&height=65&lines=WELCOME+TO+MY+PROFILE+.+.+.;+.+.+.&center=true"></a> </div>
 
-<h1 align="left"><img src="https://raw.githubusercontent.com/sidbelbase/sidbelbase/master/wave.gif" width="30px">Hello There, I'm <a href="https://sidbelbase.me">Sithum Gamage</a></h1></center>
+<h1 align="center"><img src="https://raw.githubusercontent.com/sidbelbase/sidbelbase/master/wave.gif" width="30px">Hello There, I'm <a href="https://sidbelbase.me">Sithum Gamage</a></h1></center>
 
 <!--header-->
 <h3 align="center">𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐞𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐢𝐧𝐠 𝐮𝐧𝐝𝐞𝐫𝐠𝐫𝐚𝐝𝐮𝐚𝐭𝐞 𝐚𝐭 𝐒𝐋𝐈𝐈𝐓
