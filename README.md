@@ -3,7 +3,7 @@
 
 <!--welcome text -->
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=fff&width=480&height=65&lines=WELCOME+TO+MY+PROFILE+.+.+.;+.+.+.&center=true"></a>
+<img src="https://readme-typing-svg.herokuapp.com?color=fff&width=480&height=65&lines=WELCOME+TO+MY+PROFILE+.+.+.;+.+.+.&center=true"></a> </div>
 
 <h1 align="left"><img src="https://raw.githubusercontent.com/sidbelbase/sidbelbase/master/wave.gif" width="30px">Hello There, I'm <a href="https://sidbelbase.me">Sithum Gamage</a></h1></center>
 
