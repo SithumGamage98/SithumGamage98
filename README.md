@@ -18,10 +18,10 @@
 <img src="https://img.shields.io/badge/sithum-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/sidbelbase" alt="Twitter Badge"></a>
 
 <a target="_blank" href="sithum _sankalpa98">
-<img src="https://img.shields.io/badge/-sithum-E1306C?style=for-the-badge&logo=Instagram&logoColor=white&link=https://instagram.com/sidbelbase/" alt="Instagram Badge"></a><br><br>
+<img src="https://img.shields.io/badge/-sithum-E1306C?style=for-the-badge&logo=Instagram&logoColor=white&link=https://instagram.com/sidbelbase/" alt="Instagram Badge"></a>
 
 <!-- world animation -->
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> <br>
 
 <!-- Programmer image-->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sithumgamage98&label=Profile%20views&color=0e75b6&style=flat" alt="sithumgamage98" /></p>
