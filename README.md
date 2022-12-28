@@ -1,6 +1,6 @@
-
+<!-- Cover photo -->
 <img  width="100%" height="auto" src="https://i.postimg.cc/T2bHH5ys/output-onlinegiftools.gif" />
-<center><h1 align="left"><img src="https://raw.githubusercontent.com/sidbelbase/sidbelbase/master/wave.gif" width="30px">Hello There, I'm <a href="https://sidbelbase.me">Sithum Gamage</a></h1></center>
+&nbsp&nbsp&nbsp<h1 align="left"><img src="https://raw.githubusercontent.com/sidbelbase/sidbelbase/master/wave.gif" width="30px">Hello There, I'm <a href="https://sidbelbase.me">Sithum Gamage</a></h1></center>
 <h3 align="center">𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐞𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐢𝐧𝐠 𝐮𝐧𝐝𝐞𝐫𝐠𝐫𝐚𝐝𝐮𝐚𝐭𝐞 𝐚𝐭 𝐒𝐋𝐈𝐈𝐓
 </h3>
 <a target="_blank" href="sithum-gamage-057ab7240">
