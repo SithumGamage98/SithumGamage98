@@ -7,8 +7,10 @@
 
 <h1 align="left"><img src="https://raw.githubusercontent.com/sidbelbase/sidbelbase/master/wave.gif" width="30px">Hello There, I'm <a href="https://sidbelbase.me">Sithum Gamage</a></h1></center>
 
+<!--header-->
 <h3 align="center">𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐞𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐢𝐧𝐠 𝐮𝐧𝐝𝐞𝐫𝐠𝐫𝐚𝐝𝐮𝐚𝐭𝐞 𝐚𝐭 𝐒𝐋𝐈𝐈𝐓
 </h3>
+<!--social media links -->
 <a target="_blank" href="sithum-gamage-057ab7240">
 <img src="https://img.shields.io/badge/-sithum-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/sidbelbase/" alt="Linkedin Badge"></a>
 
@@ -24,9 +26,11 @@
 <!-- Programmer image-->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sithumgamage98&label=Profile%20views&color=0e75b6&style=flat" alt="sithumgamage98" /></p>
 
+<!--profile details-->
 - 💬 Ask me about **MERN stack , React , Java**
 
 - 📫 How to reach me **sithumgamage180@gmail.com**
+- <!--social media links-->
 <img align="right" src="https://user-images.githubusercontent.com/73876759/153703309-74e2fbb8-d44f-4751-ab9f-0e3a0fbddf0b.gif" width="150">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
