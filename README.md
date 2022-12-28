@@ -1,6 +1,7 @@
 
-<h1 align="center">Hi 👋, I'm Sithum Gamage</h1>
-<h3 align="center">*Software engineering undergraduate at SLIIT*</h3>
+<h1 align="center">Hello 👋, I'm Sithum Gamage</h1>
+<h3 align="center">𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐞𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐢𝐧𝐠 𝐮𝐧𝐝𝐞𝐫𝐠𝐫𝐚𝐝𝐮𝐚𝐭𝐞 𝐚𝐭 𝐒𝐋𝐈𝐈𝐓
+</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sithumgamage98&label=Profile%20views&color=0e75b6&style=flat" alt="sithumgamage98" /> </p>
