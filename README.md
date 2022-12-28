@@ -1,4 +1,4 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+![MasterHead](https://previews.customer.envatousercontent.com/h264-video-previews/b1c08d28-f9ed-4db3-b488-e7cdffa819a6/14563792.mp4)
 <h1 align="center">Hi 👋, I'm Sithum Gamage</h1>
 <h3 align="center">Software engineering undergraduate at SLIIT</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
