@@ -3,17 +3,16 @@
 <center><h1 align="left"><img src="https://raw.githubusercontent.com/sidbelbase/sidbelbase/master/wave.gif" width="30px">Hello There, I'm <a href="https://sidbelbase.me">Sithum Gamage</a></h1></center>
 <h3 align="center">𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐞𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐢𝐧𝐠 𝐮𝐧𝐝𝐞𝐫𝐠𝐫𝐚𝐝𝐮𝐚𝐭𝐞 𝐚𝐭 𝐒𝐋𝐈𝐈𝐓
 </h3>
-<a target="_blank" href="https://linkedin.com/in/sidbelbase/">
+<a target="_blank" href="sithum-gamage-057ab7240">
 <img src="https://img.shields.io/badge/-sidbelbase-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/sidbelbase/" alt="Linkedin Badge"></a>
 
-<a target="_blank" href="https://twitter.com/sidbelbase">
+<a target="_blank" href="SithumGamage3">
 <img src="https://img.shields.io/badge/sidbelbase-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/sidbelbase" alt="Twitter Badge"></a>
 
-<a target="_blank" href="https://instagram.com/sidbelbase/">
+<a target="_blank" href="sithum _sankalpa98">
 <img src="https://img.shields.io/badge/-sidbelbase-E1306C?style=for-the-badge&logo=Instagram&logoColor=white&link=https://instagram.com/sidbelbase/" alt="Instagram Badge"></a>
 
-<a target="_blank" href="https://behance.net/sidbelbase/">
-<img src="https://img.shields.io/badge/-sidbelbase-141414?style=for-the-badge&logo=Behance&logoColor=white&link=https://behance.net/sidbelbase" alt="Behance Badge"></a>
+
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sithumgamage98&label=Profile%20views&color=0e75b6&style=flat" alt="sithumgamage98" /> </p>
