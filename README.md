@@ -10,15 +10,6 @@
 <!--header-->
 <h3 align="center">𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐞𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐢𝐧𝐠 𝐮𝐧𝐝𝐞𝐫𝐠𝐫𝐚𝐝𝐮𝐚𝐭𝐞 𝐚𝐭 𝐒𝐋𝐈𝐈𝐓
 </h3>
-<!--social media links -->
-<a target="_blank" href="sithum-gamage-057ab7240">
-<img src="https://img.shields.io/badge/-sithum-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/sidbelbase/" alt="Linkedin Badge"></a>
-
-<a target="_blank" href="SithumGamage3">
-<img src="https://img.shields.io/badge/sithum-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/sidbelbase" alt="Twitter Badge"></a>
-
-<a target="_blank" href="sithum _sankalpa98">
-<img src="https://img.shields.io/badge/-sithum-E1306C?style=for-the-badge&logo=Instagram&logoColor=white&link=https://instagram.com/sidbelbase/" alt="Instagram Badge"></a>
 
 <!-- world animation -->
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> <br>
