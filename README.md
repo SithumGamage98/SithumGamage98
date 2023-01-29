@@ -20,7 +20,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sithumgamage98&label=Profile%20views&color=0e75b6&style=flat" alt="sithumgamage98" /></p>
 
 <!--profile details-->
-- 💬 Ask me about ** React , NodeJs , Java , MERN STACK **
+- 💬 Ask me about ** React , NodeJs , Java , MERN Stack **
 
 - 📫 How to reach me **sithumgamage180@gmail.com**
  <!--social media links-->
