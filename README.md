@@ -31,7 +31,6 @@
 <a href="https://instagram.com/sithum _sankalpa98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sithum _sankalpa98" height="30" width="40" /></a>
 </p>
 <hr>
-<img align="left" style="background-color:black" src="https://github-readme-stats.vercel.app/api/top-langs?username=sithumgamage98&show_icons=true&locale=en&layout=compact" alt="sithumgamage98"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=sithumgamage98&show_icons=true&locale=en" alt="sithumgamage98" />
+
 
 
