@@ -22,6 +22,7 @@
 - 💬 Ask me about **React , NodeJs , Java , MERN Stack**
 
 - 📫 How to reach me **sithumgamage180@gmail.com**
+<hr>
  <!--social media links-->
 <img align="right" src="https://user-images.githubusercontent.com/73876759/153703309-74e2fbb8-d44f-4751-ab9f-0e3a0fbddf0b.gif" width="150">
 <h3 align="left">Connect with me:</h3>
