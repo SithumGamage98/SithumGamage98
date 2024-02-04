@@ -1,5 +1,9 @@
 <!-- cover photo -->
-![MasterHead](https://user-images.githubusercontent.com/88527082/182120166-0e494dc7-8e6f-48e1-82a2-2d47b6234489.gif)
+<div align="center">
+  <a href="https://github.com/SithumGamage98?tab=repositories">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
 
 <h1 align="center"><img src="https://raw.githubusercontent.com/sidbelbase/sidbelbase/master/wave.gif" width="30px">🙋 Hello There, I'm <a href="https://sidbelbase.me">Sithum Gamage</a></h1></center>
 
@@ -18,9 +22,8 @@
 - 💬 Ask me about **JavaScript, ReactJs , NodeJs , Java , MERN Stack , SQL , Oracle , MongoDB**
 
 - 📫 How to reach me **sithumgamage180@gmail.com**
-<hr>
- <!--social media links-->
-<img align="right" src="https://user-images.githubusercontent.com/73876759/153703309-74e2fbb8-d44f-4751-ab9f-0e3a0fbddf0b.gif" width="150">
+
+
 
 
 
