@@ -8,7 +8,7 @@
 <h3 align="center"> 🧟‍♂️ Hello There, I'm <a href="https://sidbelbase.me">Sithum Gamage</a></h3></center>
 
 <!--header-->
-<h4 align="center">FullStack Developer From Sri Lanka 🧉💻🖱️
+<h4 align="center">FullStack Developer ♾️ Trainee ERP consultant From Sri Lanka 🧉💻🖱️
 </h4>
 
 <!--welcome text -->
