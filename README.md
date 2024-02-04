@@ -5,11 +5,11 @@
        alt="snake" /></a>
 </div>
 
-<h3 align="center"><img src="https://raw.githubusercontent.com/sidbelbase/sidbelbase/master/wave.gif" width="30px"> 🧟‍♂️ Hello There, I'm <a href="https://sidbelbase.me">Sithum Gamage</a></h3></center>
+<h3 align="center"> 🧟‍♂️ Hello There, I'm <a href="https://sidbelbase.me">Sithum Gamage</a></h3></center>
 
 <!--header-->
-<h3 align="center">FullStack Developer From Sri Lanka 🧉💻🖱️
-</h3>
+<h4 align="center">FullStack Developer From Sri Lanka 🧉💻🖱️
+</h4>
 
 <!--welcome text -->
 <div align="center">
