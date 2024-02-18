@@ -13,7 +13,10 @@
 
 <!--welcome text -->
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=fff&width=480&height=65&lines=WELCOME+TO+MY+PROFILE+.+.+.;+.+.+.&center=true"></a> </div>
+<div style="position: relative; display: inline-block;">
+    <img src="https://readme-typing-svg.herokuapp.com?color=fff&width=480&height=65&lines=WELCOME+TO+MY+PROFILE+.+.+.;+.+.+.&center=true" alt="Welcome Image">
+    <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background-color: rgba(0, 255, 0, 0.5);"></div>
+</div>
 
 <!-- Programmer image-->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sithumgamage98&label=Profile%20views&color=0e75b6&style=flat" alt="sithumgamage98" /></p>
