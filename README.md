@@ -14,7 +14,7 @@
 <!--welcome text -->
 <div align="center">
 <div style="position: relative; display: inline-block;">
-    <img src="https://readme-typing-svg.herokuapp.com?color=#28AB4B&width=480&height=65&lines=WELCOME+TO+MY+PROFILE+.+.+.;+.+.+.&center=true" alt="Welcome Image">
+    <img src="https://readme-typing-svg.herokuapp.com?color=ffff&width=480&height=65&lines=WELCOME+TO+MY+PROFILE+.+.+.;+.+.+.&center=true" alt="Welcome Image">
     <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background-color: rgba(0, 255, 0, 0.5);"></div>
 </div>
 
